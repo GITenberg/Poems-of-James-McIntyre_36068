@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38067
     wikipedia: http://en.wikipedia.org/wiki/James_McIntyre_%28poet%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36068#Poems-of-James-McIntyre
 gutenberg_issued: '2011-05-09'
 gutenberg_type: Text
 identifiers:
