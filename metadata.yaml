@@ -1,0 +1,29 @@
+_repo: Poems-of-James-McIntyre_36068
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McIntyre, James
+    birthdate: 1827
+    deathdate: 1906
+    gutenberg_agent_id: '38067'
+    url: http://www.gutenberg.org/2009/agents/38067
+    wikipedia: http://en.wikipedia.org/wiki/James_McIntyre_%28poet%29
+description: ''
+gutenberg_issued: '2011-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36068'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canadian poetry'
+- !lcsh 'Cheese -- Poetry'
+- !lcsh 'Canada -- Poetry'
+title: Poems of James McIntyre
+url: http://www.gutenberg.org/ebooks/36068
